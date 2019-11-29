@@ -1,0 +1,1 @@
+:root{--background-color:linear-gradient(#1799cc, #064d81)}body#main-body,html{transition:background .5s ease-out 1s;background:var(--background-color);height:100%;width:100%}#snow{position:absolute;top:0;z-index:0}
